@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lakinduvirajith@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/mw4y58i658981.gif?format=mp4&s=5402a97dc6bcfca29eb780e174b85256912e300c">
+<img align="right" alt="Coding" width="400" src="[https://preview.redd.it/mw4y58i658981.gif?format=mp4&s=5402a97dc6bcfca29eb780e174b85256912e300c](https://preview.redd.it/mw4y58i658981.gif?format=mp4&s=5402a97dc6bcfca29eb780e174b85256912e300c)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
