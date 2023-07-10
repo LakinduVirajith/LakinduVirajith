@@ -75,23 +75,23 @@
     
   <!--node js icon-->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" height="40"/> </a>&nbsp;
   
   <!--express icon-->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" height="40"/> </a>&nbsp;
 
   <!--spring boot icon-->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" height="40"/> </a>&nbsp;
 
   <!--php icon-->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> </a>&nbsp;
     
   <!--mongo db icon-->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="40"/> </a>&nbsp;
   
   <!--mysql icon-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
