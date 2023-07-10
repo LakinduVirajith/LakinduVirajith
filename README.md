@@ -38,7 +38,7 @@
 <p align="left"><hr>
   <!--html icon-->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a>
   
   <!--css icon-->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
