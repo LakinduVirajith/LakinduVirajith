@@ -104,20 +104,20 @@
   
   <!--python icon-->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;
   
   <!--c icon-->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    &nbsp;
+    &nbsp;&nbsp;
   
   <!--c++ icon-->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;&nbsp;
   
   <!--java icon-->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
     
   <!--php icon-->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -126,19 +126,19 @@
     
   <!--photoshop icon-->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157043-3da5d669-fc42-45ec-96f4-f7063eced4df.png" alt="photoshop" width="50" height="50"/> </a>
+    <img src="https://user-images.githubusercontent.com/86775461/211157043-3da5d669-fc42-45ec-96f4-f7063eced4df.png" alt="photoshop" width="50" height="50"/> </a>&nbsp;
   
   <!--illustrator icon-->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157111-470b768c-e85b-4987-8940-e9a3b5509548.png" alt="illustrator" width="50" height="50"/> </a>
+    <img src="https://user-images.githubusercontent.com/86775461/211157111-470b768c-e85b-4987-8940-e9a3b5509548.png" alt="illustrator" width="50" height="50"/> </a>&nbsp;
   
   <!--premiere pro icon-->
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157344-9e5e74dc-bf25-4f38-b0d5-ff9de4bd4752.png" alt="illustrator" width="50" height="50"/> </a>
+    <img src="https://user-images.githubusercontent.com/86775461/211157344-9e5e74dc-bf25-4f38-b0d5-ff9de4bd4752.png" alt="illustrator" width="50" height="50"/> </a>&nbsp;
   
   <!--xd icon-->
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157441-a721da13-03a1-4e9a-9627-ebed19ed7fec.png" alt="xd" width="50" height="50"/> </a>
+    <img src="https://user-images.githubusercontent.com/86775461/211157441-a721da13-03a1-4e9a-9627-ebed19ed7fec.png" alt="xd" width="50" height="50"/> </a>&nbsp;
   
   <!--figma icon-->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -147,19 +147,19 @@
   
   <!--android icon-->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211157590-7dacf851-8920-45bf-b8d9-bef04ec8e827.png" alt="android" width="40" height="40"/> </a>&nbsp;
+     <img src="https://user-images.githubusercontent.com/86775461/211157590-7dacf851-8920-45bf-b8d9-bef04ec8e827.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
   
   <!--visual studio icon-->
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211157867-12116023-b91b-4f2f-a472-a4ab1980d402.png" alt="android" width="40" height="40"/> </a>&nbsp;
+     <img src="https://user-images.githubusercontent.com/86775461/211157867-12116023-b91b-4f2f-a472-a4ab1980d402.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
   
   <!--visual studio code icon-->
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211157739-56a58a21-768f-4594-91a3-c90140c8bfe5.png" alt="android" width="40" height="40"/> </a>&nbsp;
+     <img src="https://user-images.githubusercontent.com/86775461/211157739-56a58a21-768f-4594-91a3-c90140c8bfe5.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
   
   <!--sublime text icon-->
   <a href="https://www.sublimetext.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211158004-3f874ddb-f07e-4475-b1a2-49e5054460d8.png" alt="android" width="40" height="40"/> </a>&nbsp;
+     <img src="https://user-images.githubusercontent.com/86775461/211158004-3f874ddb-f07e-4475-b1a2-49e5054460d8.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
      
   <!--postman icon-->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
