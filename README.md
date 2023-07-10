@@ -68,6 +68,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="48"/> </a>
 
+  <!--nextjs icon-->
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcPM1PC6yq_DQpSVT7rGCcG72mu16rjS0Wb-1IxXR8wcqTr4Qk_v48rkoS-jCdchlLHw&usqp=CAU" alt="nextjs" height="48"/> </a>
+
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="48"/> </a>
@@ -156,10 +160,14 @@
   <!--visual studio code icon-->
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
      <img src="https://user-images.githubusercontent.com/86775461/211157739-56a58a21-768f-4594-91a3-c90140c8bfe5.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
+
+  <!--intellij idea icon-->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLePiC3uvrUT0mBOUGlM15fL7LDd6DqDGeiPL&s=0" alt="intellij" width="40" height="40"/> </a>&nbsp;&nbsp;
   
-  <!--sublime text icon-->
-  <a href="https://www.sublimetext.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211158004-3f874ddb-f07e-4475-b1a2-49e5054460d8.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
+  <!--eclipse ide icon-->
+  <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
+     <img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo-730x350.png" alt="eclipse" width="40" height="40"/> </a>&nbsp;&nbsp;
      
   <!--postman icon-->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
