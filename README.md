@@ -66,11 +66,11 @@
     
   <!--react icon-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40"/> </a>&nbsp;
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" height="40"/> </a>
   <br/><br/>
     
   <!--node js icon-->
