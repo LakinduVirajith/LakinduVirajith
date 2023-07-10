@@ -62,7 +62,7 @@
 
   <!--typescript icon-->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" height="40"/> </a><br/><br/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="40"/> </a><br/><br/>
     
   <!--react icon-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
