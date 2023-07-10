@@ -66,15 +66,15 @@
     
   <!--react icon-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="48"/> </a>
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="48"/> </a>
 
   <!--ionic icon-->
   <a href="https://ionicframework.com/docs/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="ionic" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="ionic" height="48"/> </a>
   <br/>
     
   <!--node js icon-->
