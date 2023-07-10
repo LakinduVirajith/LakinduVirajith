@@ -46,7 +46,7 @@
 
   <!--scss icon-->
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="40" height="40"/> </a>&nbsp;
 
   <!--tailwind icon-->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
@@ -54,7 +54,7 @@
 
   <!--bootstrap icon-->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="32" height="32"/> </a>
     
   <!--js icon-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -63,31 +63,32 @@
   <!--typescript icon-->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="32" height="32"/> </a>
+  &nbsp;
     
   <!--react icon-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>&nbsp;
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-  <br/>
+  <br/><br/>
     
   <!--node js icon-->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="36" height="36"/> </a>&nbsp;
   
   <!--express icon-->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="36" height="36"/> </a>&nbsp;
 
   <!--spring boot icon-->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="36" height="36"/> </a>&nbsp;
 
   <!--php icon-->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="48" height="48"/> </a>&nbsp;
     
   <!--mongo db icon-->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -95,7 +96,7 @@
   
   <!--mysql icon-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="48" height="48"/> </a>&nbsp;
     
   <!--firebase icon-->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -121,7 +122,7 @@
     
   <!--photoshop icon-->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157043-3da5d669-fc42-45ec-96f4-f7063eced4df.png" alt="photoshop" width="50" height="50"/> </a>
+    <img src="https://icons8.com/icon/NeNPFdj7MzXi/adobe-photoshop" alt="photoshop" width="50" height="50"/> </a>
   
   <!--illustrator icon-->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
