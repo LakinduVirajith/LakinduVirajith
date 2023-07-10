@@ -54,7 +54,7 @@
 
   <!--bootstrap icon-->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211158038-2191dd1f-da32-4421-9d07-0206ca2ed6b3.png" alt="bootstrap" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
     
   <!--js icon-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@
 
   <!--typescript icon-->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="32" height="32"/> </a>
     
   <!--react icon-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -71,27 +71,31 @@
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-  
-  <!--express icon-->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <br/><br/>
-  
-  <!--php icon-->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50"/> </a>&nbsp;
+  <br/>
     
   <!--node js icon-->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="50" height="50"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+  
+  <!--express icon-->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
+
+  <!--spring boot icon-->
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> </a>
+
+  <!--php icon-->
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>&nbsp;
     
   <!--mongo db icon-->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;
   
   <!--mysql icon-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
     
   <!--firebase icon-->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
