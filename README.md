@@ -44,13 +44,17 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
-  <!--bootstrap icon-->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211158038-2191dd1f-da32-4421-9d07-0206ca2ed6b3.png" alt="bootstrap" width="40" height="40"/> </a>
-
   <!--scss icon-->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="40" height="40"/> </a>
+
+  <!--tailwind icon-->
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+
+  <!--bootstrap icon-->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/86775461/211158038-2191dd1f-da32-4421-9d07-0206ca2ed6b3.png" alt="bootstrap" width="40" height="40"/> </a>
     
   <!--js icon-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
