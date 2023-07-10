@@ -85,13 +85,9 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" height="40"/> </a>&nbsp;
 
-  <!--php icon-->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> </a>&nbsp;
-    
   <!--mongo db icon-->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="50"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="50"/> </a>
   
   <!--mysql icon-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -116,7 +112,11 @@
   
   <!--java icon-->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    
+  <!--php icon-->
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> </a>&nbsp;&nbsp;
   <br/><br/>
     
   <!--photoshop icon-->
