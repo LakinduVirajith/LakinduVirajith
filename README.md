@@ -70,7 +70,7 @@
 
   <!--nextjs icon-->
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="nextjs" height="48"/> </a>
+    <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="nextjs" height="64"/> </a>
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
