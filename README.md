@@ -54,7 +54,7 @@
 
   <!--bootstrap icon-->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="34"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" height="36"/> </a>&nbsp;
     
   <!--js icon-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -62,15 +62,24 @@
 
   <!--typescript icon-->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" height="40"/> </a><br/>
     
   <!--react icon-->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="40"/> </a>
+
+  <!--next icon-->
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/search?rlz=1C1ONGR_enLK1023LK1023&hl=en-US&q=Next+js+icon+svg+link+free&uds=GzwA-K0OeHMuKg13qPZCMCdfKxi5yWmCih0npTaXEmV4WaZh1yAwZ3RbEVHWUUijcAUpBlkCF_PZ0E9lbiA&tbm=isch&sa=X&ved=2ahUKEwiUtdj58YOAAxV67zgGHX5oC9YQ0pQJegQIChAB&biw=1536&bih=714&dpr=1.25#imgrc=uHGJuudai51cDM" alt="next" height="40"/> </a>
+  <br/>
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="40"/> </a>
+
+  <!--ionic icon-->
+  <a href="https://ionicframework.com/docs/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="ionic" height="40"/> </a>
   <br/><br/>
     
   <!--node js icon-->
