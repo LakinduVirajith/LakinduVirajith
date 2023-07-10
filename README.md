@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lakinduvirajith@gmail.com**
 
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="center" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><hr>
