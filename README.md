@@ -70,7 +70,7 @@
 
   <!--nextjs icon-->
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:572/1*YPETs_O_io9ZEM1Ew55sIQ.jpeg" alt="nextjs" height="48"/> </a>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF9h1x-c0SDgKrwi2EuEDjx23fmuDalLjmbqLrWVHocLBJS7HYgLbZj8RhRN_F3CUEbU4&usqp=CAU" alt="nextjs" height="48"/> </a>
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
@@ -167,7 +167,7 @@
   
   <!--eclipse ide icon-->
   <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
-     <img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo-730x350.png" alt="eclipse" height="40"/> </a>&nbsp;&nbsp;
+     <img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo-730x350.png" alt="eclipse" height="48"/> </a>&nbsp;&nbsp;
      
   <!--postman icon-->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
