@@ -38,11 +38,11 @@
 <p align="left"><hr>
   <!--html icon-->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="40"/> </a>
   
   <!--css icon-->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css3" height="40"/> </a>&nbsp;
 
   <!--scss icon-->
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
