@@ -54,7 +54,7 @@
 
   <!--bootstrap icon-->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="36"/> </a>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="34"/> </a>&nbsp;
     
   <!--js icon-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
