@@ -70,7 +70,7 @@
 
   <!--nextjs icon-->
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://calendar.perfplanet.com/wp-content/uploads/2022/12/clark/next-logo.png" alt="nextjs" height="48"/> </a>&nbsp;
+    <img src="https://calendar.perfplanet.com/wp-content/uploads/2022/12/clark/next-logo.png" alt="nextjs" height="40"/> </a>&nbsp;
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
