@@ -70,7 +70,7 @@
 
   <!--nextjs icon-->
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" alt="nextjs" height="40"/> </a>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" alt="nextjs" height="28"/> </a>&nbsp;
 
   <!--angular icon-->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
