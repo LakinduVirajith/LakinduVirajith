@@ -50,19 +50,19 @@
 
   <!--tailwind icon-->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;
 
   <!--bootstrap icon-->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="32" height="32"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="32" height="32"/> </a>&nbsp;
     
   <!--js icon-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211158066-10773487-f9f7-46c7-a286-63a01a19f9b7.png" alt="javascript" width="40" height="40"/> </a>
+    <img src="https://user-images.githubusercontent.com/86775461/211158066-10773487-f9f7-46c7-a286-63a01a19f9b7.png" alt="javascript" width="40" height="40"/> </a>&nbsp;
 
   <!--typescript icon-->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="32" height="32"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" width="32" height="32"/> </a>
   &nbsp;
     
   <!--react icon-->
@@ -122,7 +122,7 @@
     
   <!--photoshop icon-->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://icons8.com/icon/NeNPFdj7MzXi/adobe-photoshop" alt="photoshop" width="50" height="50"/> </a>
+    <img src="https://user-images.githubusercontent.com/86775461/211157043-3da5d669-fc42-45ec-96f4-f7063eced4df.png" alt="photoshop" width="50" height="50"/> </a>
   
   <!--illustrator icon-->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
