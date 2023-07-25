@@ -1,50 +1,82 @@
-<h1 align="center">Hi 👋, I'm Lakindu Virajith</h1>
-<h3 align="center">Full stack developer with a passion for innovation</h3>
+<h1 align="center">Hi there! 👋 I'm Lakindu Virajith</h1>
+<h3 align="center">A Software Development Enthusiast and Full Stack Developer. Always on the lookout for new technologies to learn and implement. Let's build something amazing together! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinduvirajith&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+---
+<br />
 
-<p align="left"> <a href="https://twitter.com/LakinduZoysa?s=09"><img src="https://img.shields.io/twitter/follow/lakinduzoysa?logo=twitter&style=for-the-badge" alt="follow" /></a> </p>
+<div style="display: flex; justify-content: center; gap: 18px">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=lakinduvirajith&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  </p>
+  <p align="center">
+    <a href="https://github.com/lakinduvirajith">
+      <img src="https://img.shields.io/github/followers/lakinduvirajith?label=Followers&style=social" alt="GitHub followers" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/lakinduvirajith?tab=repositories">
+      <img src="https://img.shields.io/github/stars/lakinduvirajith?style=social" alt="GitHub stars" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/lakinduvirajith">
+      <img src="https://img.shields.io/github/last-commit/lakinduvirajith/lakinduvirajith?label=Contributions&style=flat" alt="GitHub contributions" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/lakinduvirajith/lakinduvirajith/issues">
+      <img src="https://img.shields.io/github/issues/lakinduvirajith/lakinduvirajith?label=Open%20Issues&style=flat" alt="GitHub open issues" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/lakinduvirajith/lakinduvirajith/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues-closed/lakinduvirajith/lakinduvirajith?label=Closed%20Issues&style=flat" alt="GitHub closed issues" />
+    </a>
+  </p>
+</div>
 
--  🚀 I’m Currently Learning **SPRING BOOT**
 
-- ✉️ How to Reach Me **lakinduvirajith@gmail.com**
+---
+
+-  🚀 I’m currently learning **Spring Boot**
+
+-  🎓 I’m currently learning BSc (Hons) in Information Technology Specializing in Software Engineering Degree
+
+-  ✉️ How to reach me **lakinduvirajith@gmail.com**
 
 <img align="center" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><hr />
+### Connect with Me on
+<div style="display: flex; flex-direction: row; align-items: center; gap: 24px;">
   <!--facebook icon-->
   <a href="https://www.facebook.com/lakindu.virajith.1">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+    <img src="./social/facebook.svg" alt="facebook" height="30" />
   </a>
-
   <!--instagram icon-->
   <a href="https://www.instagram.com/lakindu_virajith/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="./social/instagram.svg" alt="instagram" height="34" />
   </a>
-  
   <!--twitter icon-->
   <a href="https://twitter.com/LakinduZoysa?s=09" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+    <img src="./social/twitter.svg" alt="twitter" height="30" />
   </a>
-  
   <!--linkedin icon-->
   <a href="https://www.linkedin.com/in/lakindu-de-zoysa-59b0b925b">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img src="./social/linkedin.svg" alt="linkedin" height="34" />
   </a>
-</p>
+</div>
 
 ### Languages and Tools
 <hr />
 
-<div style="display: flex; flex-direction: row; gap: 18px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 18px; margin-bottom: 18px;">
   <!--html icon-->
   <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/>
+    <img src="./asserts/html-5.png" alt="html5" height="40"/>
   </a>
   <!--css icon-->
   <a href="https://www.w3schools.com/css/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
+    <img src="./asserts/css-3.png" alt="css3" height="40"/>
   </a>
   <!--scss icon-->
   <a href="https://sass-lang.com/">
@@ -52,150 +84,144 @@
   </a>
   <!--tailwind icon-->
   <a href="https://tailwindcss.com">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/>
+    <img src="./asserts/tailwind-css.png" alt="tailwind" height="40"/>
+  </a>
+  <!--bootstrap icon-->
+  <a href="https://getbootstrap.com">
+    <img src="./asserts/bootstrap.png" alt="bootstrap" height="32"/>
+  </a>
+  <!--js icon-->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="./asserts/js.png" alt="javascript" height="32"/>
+  </a>
+  <!--typescript icon-->
+  <a href="https://www.typescriptlang.org/">
+    <img src="./asserts/typescript.png" alt="typescript" height="32"/>
   </a>
 </div>
-<div align="left">
-  <!--html icon-->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a>
-  
-  <!--css icon-->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a>&nbsp;
 
-  <!--scss icon-->
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" height="40"/> </a>&nbsp;
-
-  <!--tailwind icon-->
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/> </a>&nbsp;
-
-  <!--bootstrap icon-->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" height="36"/> </a>&nbsp;
-    
-  <!--js icon-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211158066-10773487-f9f7-46c7-a286-63a01a19f9b7.png" alt="javascript" height="40"/> </a>&nbsp;
-
-  <!--typescript icon-->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" height="40"/> </a><br/><br/>
-    
+<div style="display: flex; flex-direction: row; align-items: center; gap: 18px; margin-bottom: 18px;">
   <!--react icon-->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="48"/> </a>
-
+  <a href="https://reactjs.org/">
+    <img src="./asserts/react.png" alt="react" height="40"/>
+  </a>
   <!--nextjs icon-->
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://calendar.perfplanet.com/wp-content/uploads/2022/12/clark/next-logo.png" alt="nextjs" height="42"/> </a>&nbsp;
-
+  <a href="https://nextjs.org/docs">
+    <img src="./asserts/nextjs.png" alt="nextjs" height="40"/>
+  </a>
   <!--angular icon-->
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" height="48"/> </a>
-
+  <a href="https://angular.io/">
+    <img src="./asserts/angular.png" height="40"/>
+  </a>
   <!--ionic icon-->
-  <a href="https://ionicframework.com/docs/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" alt="ionic" height="48"/> </a>
-  <br/>
-    
-  <!--node js icon-->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" height="40"/> </a>&nbsp;
-  
-  <!--express icon-->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" height="40"/> </a>&nbsp;
-
-  <!--spring boot icon-->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" height="40"/> </a>&nbsp;
-
-  <!--mongo db icon-->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="50"/> </a>
-  
-  <!--mysql icon-->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/> </a>&nbsp;
-    
-  <!--firebase icon-->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/> </a>
-  <br/><br/>
-  
-  <!--python icon-->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;
-  
-  <!--c icon-->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    &nbsp;&nbsp;
-  
-  <!--c++ icon-->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;&nbsp;
-  
-  <!--java icon-->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
-    
-  <!--php icon-->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" height="40"/> </a>&nbsp;&nbsp;
-  <br/><br/>
-    
-  <!--photoshop icon-->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157043-3da5d669-fc42-45ec-96f4-f7063eced4df.png" alt="photoshop" width="50" height="50"/> </a>&nbsp;
-  
-  <!--illustrator icon-->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157111-470b768c-e85b-4987-8940-e9a3b5509548.png" alt="illustrator" width="50" height="50"/> </a>&nbsp;
-  
-  <!--premiere pro icon-->
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157344-9e5e74dc-bf25-4f38-b0d5-ff9de4bd4752.png" alt="illustrator" width="50" height="50"/> </a>&nbsp;
-  
-  <!--xd icon-->
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157441-a721da13-03a1-4e9a-9627-ebed19ed7fec.png" alt="xd" width="50" height="50"/> </a>&nbsp;
-  
-  <!--figma icon-->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/86775461/211157515-fe344350-7783-4032-bc2a-459118f040fb.png" alt="figma" width="40" height="40"/> </a>
-  <br/><br/>
-  
-  <!--android icon-->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211157590-7dacf851-8920-45bf-b8d9-bef04ec8e827.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
-  
-  <!--visual studio icon-->
-  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211157867-12116023-b91b-4f2f-a472-a4ab1980d402.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
-  
-  <!--visual studio code icon-->
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/86775461/211157739-56a58a21-768f-4594-91a3-c90140c8bfe5.png" alt="android" width="40" height="40"/> </a>&nbsp;&nbsp;
-
-  <!--intellij idea icon-->
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLePiC3uvrUT0mBOUGlM15fL7LDd6DqDGeiPL&s=0" alt="intellij" width="40" height="40"/> </a>&nbsp;&nbsp;
-  
-  <!--eclipse ide icon-->
-  <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
-     <img src="https://www.iri.com/blog/wp-content/uploads/2012/06/eclipse-logo-730x350.png" alt="eclipse" height="48"/> </a>&nbsp;&nbsp;
-     
-  <!--postman icon-->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://ionicframework.com/docs/">
+    <img src="./asserts/ionic.png" alt="ionic" height="34"/> </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakinduvirajith&show_icons=true&locale=en&layout=compact" alt="lakinduvirajith" /></p>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 18px; margin-bottom: 18px;">
+  <!--node js icon-->
+  <a href="https://nodejs.org">
+    <img src="./asserts/node-js.png" alt="nodejs" height="40"/>
+  </a>
+  <!--express icon-->
+  <a href="https://expressjs.com">
+    <img src="./asserts//expressjs.svg" alt="express" height="40"/>
+  </a>
+  <!--spring boot icon-->
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="./asserts/spring-boot.png" alt="spring-boot" height="40"/>
+  </a>
+  <!--mongo db icon-->
+  <a href="https://www.mongodb.com/">
+    <img src="./asserts/mongo-db.png" alt="mongodb" height="40"/>
+  </a>
+  <!--mysql icon-->
+  <a href="https://www.mysql.com/">
+    <img src="./asserts/mysql.png" alt="mysql" height="40"/>
+  </a>
+  <!--firebase icon-->
+  <a href="https://firebase.google.com/">
+    <img src="./asserts/firebase.png" alt="firebase" height="40"/>
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakinduvirajith&show_icons=true&locale=en" alt="lakinduvirajith" /></p>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 18px; margin-bottom: 18px;">
+  <!--python icon-->
+  <a href="https://www.python.org">
+    <img src="./asserts/python.png" alt="python" height="40"/>
+  </a>
+  <!--c icon-->
+  <a href="https://www.cprogramming.com/">
+    <img src="./asserts/c.svg" alt="c" height="40"/>
+  </a>
+  <!--c++ icon-->
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="./asserts/c++.svg" alt="cplusplus" height="40"/>
+  </a>
+  <!--java icon-->
+  <a href="https://www.java.com">
+    <img src="./asserts/java.png" alt="java" height="40"/>
+  </a>
+  <!--php icon-->
+  <a href="https://www.php.net">
+    <img src="./asserts/php.png" alt="php" height="60"/>
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakinduvirajith&" alt="lakinduvirajith" /></p>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 18px; margin-bottom: 18px;">
+  <!--android icon-->
+  <a href="https://developer.android.com">
+     <img src="./asserts/android-studio.png" alt="android" height="40"/>
+  </a>
+  <!--intellij idea icon-->
+  <a href="https://www.jetbrains.com/idea/">
+     <img src="./asserts/intellij-idea.png" alt="intellij" height="40"/>
+  </a>
+  <!--vs code icon-->
+  <a href="https://code.visualstudio.com">
+     <img src="./asserts/vscode.png" alt="android" height="40"/>
+  </a>
+  <!--visual studio icon-->
+  <a href="https://visualstudio.microsoft.com">
+     <img src="./asserts/visual-studio.png" alt="android" height="36"/>
+  </a>
+  <!--eclipse ide icon-->
+  <a href="https://www.eclipse.org/ide/">
+     <img src="./asserts/eclipse.png" alt="eclipse" height="40"/>
+  </a>
+  <!--postman icon-->
+  <a href="https://postman.com">
+    <img src="./asserts/postman.png" alt="postman" height="40"/>
+  </a>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 18px; margin-bottom: 18px;">
+  <!--photoshop icon-->
+  <a href="https://www.photoshop.com/en">
+    <img src="./asserts/photoshop.png" alt="photoshop" height="40"/>
+  </a>
+  <!--illustrator icon-->
+  <a href="https://www.adobe.com/in/products/illustrator.html">
+    <img src="./asserts/illustrator.png" alt="illustrator" height="40"/>
+  </a>
+  <!--premiere pro icon-->
+  <a href="https://www.adobe.com/in/products/premiere.html">
+    <img src="./asserts/premiere-pro.png" alt="illustrator" height="40"/>
+  </a>
+  <!--xd icon-->
+  <a href="https://www.adobe.com/products/xd.html">
+    <img src="./asserts/xd.png" alt="xd" height="40"/>
+  </a>
+  <!--figma icon-->
+  <a href="https://www.figma.com/">
+    <img src="./asserts/figma.png" alt="figma" height="36"/>
+  </a>
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakinduvirajith&show_icons=true&locale=en&layout=compact" alt="status-1" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lakinduvirajith&show_icons=true&locale=en" alt="status-2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakinduvirajith&" alt="status-3" /></p>
+
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=lakinduvirajith&theme=flat&no-frame=true&margin-w=30" alt="GitHub trophies" /></p>
