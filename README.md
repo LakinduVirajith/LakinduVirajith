@@ -59,8 +59,16 @@
   </a>
 </div>
 
-### Languages and Tools
-<hr />
+# Languages and Tools
+
+### Mobile
+[<img src="./asserts/flutter.png" alt="flutter" width="40"/>](https://flutter.io/)
+
+### Desktop
+[<img src="./asserts/electron-js.png" alt="electron js" width="40"/>](https://www.electronjs.org/)
+
+### Languages
+[<img src="./asserts/dart.png" alt="electron js" width="40"/>](https://dart.dev/language)
 
 <div align="left">
   <!--html icon-->
