@@ -47,64 +47,64 @@
 
 # Languages and Tools
 ### Frontend
-[<img src="./asserts/react.png" alt="react" width="40"/>](https://reactjs.org/)&nbsp;&nbsp;
-[<img src="./asserts/nextjs.png" alt="nextjs" width="40"/>](https://nextjs.org/docs)&nbsp;&nbsp;
-[<img src="./asserts/angular.png" alt="angular" width="40"/>](https://angular.io/)
+[<img src="./assert/react.png" alt="react" width="40"/>](https://reactjs.org/)&nbsp;&nbsp;
+[<img src="./assert/nextjs.png" alt="nextjs" width="40"/>](https://nextjs.org/docs)&nbsp;&nbsp;
+[<img src="./assert/angular.png" alt="angular" width="40"/>](https://angular.io/)
 
 ### Backend
-[<img src="./asserts/express.png" alt="express" width="80"/>](https://expressjs.com")&nbsp;&nbsp;
-[<img src="./asserts/spring-boot.png" alt="spring-boot" width="80"/>](https://spring.io/projects/spring-boot)
+[<img src="./assert/express.png" alt="express" width="80"/>](https://expressjs.com")&nbsp;&nbsp;
+[<img src="./assert/spring-boot.png" alt="spring-boot" width="80"/>](https://spring.io/projects/spring-boot)
 
 ### Mobile
-[<img src="./asserts/flutter.png" alt="flutter" width="40"/>](https://flutter.io/)&nbsp;&nbsp;
-[<img src="./asserts/ionic.png" alt="ionic" width="40"/>](https://ionicframework.com/docs/)
+[<img src="./assert/flutter.png" alt="flutter" width="40"/>](https://flutter.io/)&nbsp;&nbsp;
+[<img src="./assert/ionic.png" alt="ionic" width="40"/>](https://ionicframework.com/docs/)
 
 ### Desktop
-[<img src="./asserts/electron-js.png" alt="electron-js" width="40"/>](https://www.electronjs.org/)
+[<img src="./assert/electron-js.png" alt="electron-js" width="40"/>](https://www.electronjs.org/)
 
 ### Languages
-[<img src="./asserts/c.png" alt="c" width="40"/>](https://www.cprogramming.com/)&nbsp;
-[<img src="./asserts/c++.png" alt="c++" width="40"/>](https://www.w3schools.com/cpp/)&nbsp;
-[<img src="./asserts/java.png" alt="java" width="40"/>](https://www.java.com)&nbsp;
-[<img src="./asserts/python.png" alt="python" width="40"/>](https://www.python.org)&nbsp;&nbsp;
-[<img src="./asserts/php.png" alt="php" width="45"/>](https://www.php.net)
-[<img src="./asserts/html-5.png" alt="html-5" width="40"/>](https://www.w3.org/html/)
-[<img src="./asserts/css-3.png" alt="css-3" width="40"/>](https://www.w3schools.com/css/)&nbsp;
-[<img src="./asserts/sass.png" alt="scss" width="40"/>](https://sass-lang.com/)&nbsp;
-[<img src="./asserts/tailwind-css.png" alt="tailwind-css" width="45"/>](https://tailwindcss.com)&nbsp;
-[<img src="./asserts/js.png" alt="javascript" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
-[<img src="./asserts/typescript.png" alt="typescript" width="40"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
-[<img src="./asserts/node-js.png" alt="nodejs" width="40"/>](https://nodejs.org)&nbsp;&nbsp;
-[<img src="./asserts/dart.png" alt="dart" width="40"/>](https://dart.dev/language)
+[<img src="./assert/c.png" alt="c" width="40"/>](https://www.cprogramming.com/)&nbsp;
+[<img src="./assert/c++.png" alt="c++" width="40"/>](https://www.w3schools.com/cpp/)&nbsp;
+[<img src="./assert/java.png" alt="java" width="40"/>](https://www.java.com)&nbsp;
+[<img src="./assert/python.png" alt="python" width="40"/>](https://www.python.org)&nbsp;&nbsp;
+[<img src="./assert/php.png" alt="php" width="45"/>](https://www.php.net)
+[<img src="./assert/html-5.png" alt="html-5" width="40"/>](https://www.w3.org/html/)
+[<img src="./assert/css-3.png" alt="css-3" width="40"/>](https://www.w3schools.com/css/)&nbsp;
+[<img src="./assert/sass.png" alt="scss" width="40"/>](https://sass-lang.com/)&nbsp;
+[<img src="./assert/tailwind-css.png" alt="tailwind-css" width="45"/>](https://tailwindcss.com)&nbsp;
+[<img src="./assert/js.png" alt="javascript" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[<img src="./assert/typescript.png" alt="typescript" width="40"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[<img src="./assert/node-js.png" alt="nodejs" width="40"/>](https://nodejs.org)&nbsp;&nbsp;
+[<img src="./assert/dart.png" alt="dart" width="40"/>](https://dart.dev/language)
 
 ### Database
-[<img src="./asserts/mongo-db.png" alt="mongodb" width="45"/>](https://www.mongodb.com/)
-[<img src="./asserts/firebase.png" alt="firebase" width="40"/>](https://firebase.google.com/)&nbsp;
-[<img src="./asserts/mysql.png" alt="mysql" width="50"/>](https://www.mysql.com/)
+[<img src="./assert/mongo-db.png" alt="mongodb" width="45"/>](https://www.mongodb.com/)
+[<img src="./assert/firebase.png" alt="firebase" width="40"/>](https://firebase.google.com/)&nbsp;
+[<img src="./assert/mysql.png" alt="mysql" width="50"/>](https://www.mysql.com/)
 
 ### Cloud Platforms
-[<img src="./asserts/aws.png" alt="aws" width="45"/>](https://aws.amazon.com/)&nbsp;
-[<img src="./asserts/azure.png" alt="azure" width="40"/>](https://azure.microsoft.com/en-us)
+[<img src="./assert/aws.png" alt="aws" width="45"/>](https://aws.amazon.com/)&nbsp;
+[<img src="./assert/azure.png" alt="azure" width="40"/>](https://azure.microsoft.com/en-us)
 
 ### IDE
-[<img src="./asserts/android-studio.png" alt="android" width="40"/>](https://developer.android.com)&nbsp;
-[<img src="./asserts/intellij-idea.png" alt="intellij" width="40"/>](https://www.jetbrains.com/idea/)&nbsp;
-[<img src="./asserts/vscode.png" alt="vscode" width="40"/>](https://code.visualstudio.com)&nbsp;
-[<img src="./asserts/visual-studio.png" alt="visual-studio" width="40"/>](https://visualstudio.microsoft.com)&nbsp;
-[<img src="./asserts/eclipse.png" alt="eclipse" width="40"/>](https://www.eclipse.org/ide/)
+[<img src="./assert/android-studio.png" alt="android" width="40"/>](https://developer.android.com)&nbsp;
+[<img src="./assert/intellij-idea.png" alt="intellij" width="40"/>](https://www.jetbrains.com/idea/)&nbsp;
+[<img src="./assert/vscode.png" alt="vscode" width="40"/>](https://code.visualstudio.com)&nbsp;
+[<img src="./assert/visual-studio.png" alt="visual-studio" width="40"/>](https://visualstudio.microsoft.com)&nbsp;
+[<img src="./assert/eclipse.png" alt="eclipse" width="40"/>](https://www.eclipse.org/ide/)
 
 ### UI/UX
-[<img src="./asserts/photoshop.png" alt="photoshop" width="40"/>](https://www.photoshop.com/en)&nbsp;
-[<img src="./asserts/illustrator.png" alt="illustrator" width="40"/>](https://www.adobe.com/in/products/illustrator.html)&nbsp;
-[<img src="./asserts/premiere-pro.png" alt="premiere-pro" width="40"/>](https://www.adobe.com/in/products/premiere.html)&nbsp;
-[<img src="./asserts/xd.png" alt="xd" width="40"/>](https://www.adobe.com/products/xd.html)
-[<img src="./asserts/figma.png" alt="figma" width="40"/>](https://www.figma.com/)
+[<img src="./assert/photoshop.png" alt="photoshop" width="40"/>](https://www.photoshop.com/en)&nbsp;
+[<img src="./assert/illustrator.png" alt="illustrator" width="40"/>](https://www.adobe.com/in/products/illustrator.html)&nbsp;
+[<img src="./assert/premiere-pro.png" alt="premiere-pro" width="40"/>](https://www.adobe.com/in/products/premiere.html)&nbsp;
+[<img src="./assert/xd.png" alt="xd" width="40"/>](https://www.adobe.com/products/xd.html)
+[<img src="./assert/figma.png" alt="figma" width="40"/>](https://www.figma.com/)
 
 ### Software Platforms, Environments & Tools
-[<img src="./asserts/docker.png" alt="docker" width="45"/>](https://www.docker.com/)&nbsp;&nbsp;
-[<img src="./asserts/github-actions.png" alt="github-actions" width="40"/>](https://github.com/features/actions)&nbsp;&nbsp;
-[<img src="./asserts/postman.png" alt="postman" width="40"/>](https://postman.com)&nbsp;&nbsp;
-[<img src="./asserts/bootstrap.png" alt="bootstrap" width="40"/>](https://getbootstrap.com)&nbsp;
+[<img src="./assert/docker.png" alt="docker" width="45"/>](https://www.docker.com/)&nbsp;&nbsp;
+[<img src="./assert/github-actions.png" alt="github-actions" width="40"/>](https://github.com/features/actions)&nbsp;&nbsp;
+[<img src="./assert/postman.png" alt="postman" width="40"/>](https://postman.com)&nbsp;&nbsp;
+[<img src="./assert/bootstrap.png" alt="bootstrap" width="40"/>](https://getbootstrap.com)&nbsp;
 
 # More Infomation
 
